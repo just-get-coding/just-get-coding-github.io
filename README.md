@@ -1,1 +1,1 @@
-# just-get-coding-github.io
+# just-get-coding.github.io
